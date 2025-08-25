@@ -118,14 +118,6 @@ The theme includes icons for the following file types:
 
 You can find more available icons at [Material Design Icons](https://materialdesignicons.com/).
 
-### Contact / Social Media
-
-#### Get the latest news about web development, open source, tools, servers, and security
-
-[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/lfelipe1501)
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/lfelipe1501)
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/lfelipe1501)
-
 ### Developed by
 
 Developer / Author: [Luis Felipe Sanchez](https://github.com/lfelipe1501)
